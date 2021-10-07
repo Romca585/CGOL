@@ -1,0 +1,2 @@
+
+int reduceSpace ( char *line );
